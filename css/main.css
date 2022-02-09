@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+
+}
+body {
+    margin-top: 150px;
+}
+.text1 {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.text2 {
+    display: inline-block;
+    text-align: center;
+    margin-top: 24px;
+   display: flex;
+   justify-content: center;
+   margin-bottom: 40px;
+
+}
+
+.input1, .input2 {
+    height: 30px;
+}
+
+.input3 {
+    width: 346px;
+    height: 30px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    display: inline-block;
+    margin-right: 200px;
+}
+
+span {
+    display: inline-block;
+   
+    
+}
+
+.wrap {
+    margin-left: 200px;
+    align-items: center;
+
+}
+
